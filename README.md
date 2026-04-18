@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Robert Legatzki</h1>
 
 <p align="center">
-  <strong>Electrical Engineer · Data Scientist · AI Automation Engineer</strong><br>
+  <strong>Diplom-Ingenieur (TI) · Data Scientist · AI Automation Engineer</strong><br>
   Building intelligent workflows that turn data into decisions — for businesses in the DACH region and beyond.
 </p>
 
@@ -18,11 +18,11 @@
 
 ## About Me
 
-Electrical Engineer (Technical Computer Science, Hochschule Emden/Leer) with three decades in industry — PLC & robotics programming, two decades in technical sales, field service. Now combining that operational depth with Data Science and AI.
+Diplom-Ingenieur (Technical Computer Science, Hochschule Emden/Leer) with three decades in industry — PLC & robotics programming, two decades in technical sales, field service. Now combining that operational depth with Data Science and AI.
 
 My focus: **KPI reliability, agentic AI workflows, and process automation** — pragmatic solutions that actually ship.
 
-- Electrical Engineer — Hochschule Emden/Leer, 1997 (Technical Computer Science)
+- Diplom-Ingenieur (Technical Computer Science) — Hochschule Emden/Leer, 1997
 - Certified Data Scientist — Data Science Institute (DSI), Berlin 2026
 - Full-Stack Developer — Ironhack
 - Based in Berlin · Open to **remote positions** across DACH
