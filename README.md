@@ -20,13 +20,14 @@
 
 Diplom-Ingenieur (Technical Computer Science, Hochschule Emden/Leer) with three decades in industry — PLC & robotics programming, two decades in technical sales, field service. Now combining that operational depth with Data Science and AI.
 
-My focus: **KPI reliability, agentic AI workflows, and process automation** — pragmatic solutions that actually ship.
+My focus: **KPI reliability, agentic AI workflows, process automation, and GDPR-compliant AI architecture** — pragmatic solutions that actually ship.
 
 - Diplom-Ingenieur (Technical Computer Science) — Hochschule Emden/Leer, 1997
 - Certified Data Scientist — Data Science Institute (DSI), Berlin 2026
 - Full-Stack Developer — Ironhack
 - Based in Berlin · Open to **remote positions** across DACH
 - Available for **freelance projects**: AI process automation, data pipelines, KPI dashboards for SMEs
+- Building AI systems compliant with **GDPR** and the **EU AI Act** — a growing requirement for European businesses
 
 ---
 
