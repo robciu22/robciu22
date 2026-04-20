@@ -45,6 +45,8 @@ My focus: **Machine Learning, KPI reliability, agentic AI workflows, process aut
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FDA061?style=flat&logo=dask&logoColor=white)
 
 **AI & Automation**
 
