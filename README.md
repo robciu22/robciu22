@@ -12,6 +12,9 @@
   <a href="https://kpi-confidence.streamlit.app">
     <img src="https://img.shields.io/badge/Live_Demo-KPI_Confidence-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   </a>
+  <a href="mailto:contact@ai-processintelligence.com">
+    <img src="https://img.shields.io/badge/Email-contact@ai--processintelligence.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
