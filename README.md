@@ -58,10 +58,12 @@ My focus: **Machine Learning, KPI reliability, agentic AI workflows, process aut
 **Visualization & BI**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Dev & Infra**
 
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
@@ -78,6 +80,13 @@ Automated KPI reliability scoring for Berlin traffic detector data.
 Calculates a **Confidence Score (0–1)** per KPI using anomaly detection, drift analysis, and data freshness signals — with a live Streamlit diagnostic dashboard.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-kpi--confidence.streamlit.app-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://kpi-confidence.streamlit.app)
+
+### [Olympic Games Data Analysis](https://github.com/robciu22/olympics-analysis)
+> PostgreSQL · Star Schema · SQL Analytics · Plotly · Streamlit · SQLAlchemy
+
+End-to-end analysis of Olympic Games data (1960–2016): star schema database design, 8 complex analytical SQL queries, and an interactive Streamlit dashboard with Plotly Express visualizations.
+
+165,978 results · 87,734 athletes · 220 NOCs · 36 sports
 
 ---
 
