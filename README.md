@@ -88,6 +88,11 @@ End-to-end analysis of Olympic Games data (1960–2016): star schema database de
 
 165,978 results · 87,734 athletes · 220 NOCs · 36 sports
 
+### [n8n Workflow Templates](https://github.com/robciu22/n8n-workflow-templates)
+> n8n · Process Automation · B2B · GDPR-compliant
+
+Ready-to-import n8n automation workflows for real SME business processes — built from 30 years of industry experience in technical sales and industrial automation.
+
 ---
 
 ## Open For
