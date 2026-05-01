@@ -93,6 +93,11 @@ End-to-end analysis of Olympic Games data (1960–2016): star schema database de
 
 Ready-to-import n8n automation workflows for real SME business processes — built from 30 years of industry experience in technical sales and industrial automation.
 
+### [Ollama RAG Demo — DSGVO & EU AI Act Compliance Assistant](https://github.com/robciu22/ollama-rag-demo)
+> Ollama · ChromaDB · RAG · Streamlit · 100% Local · GDPR by Design
+
+A fully local Retrieval-Augmented Generation (RAG) system for compliance Q&A — no API keys, no cloud, no data leaves your system. Ask questions about DSGVO and EU AI Act documents with source references.
+
 ---
 
 ## Open For
